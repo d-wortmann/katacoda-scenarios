@@ -21,7 +21,7 @@
   },
   "environment": {
     "uilayout": "terminal",
-    "uimessage1": "Testmessage modified"
+    "uimessage1": ""
   },
   "backend": {
     "imageid": "ubuntu"
