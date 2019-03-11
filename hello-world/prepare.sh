@@ -1,0 +1,1 @@
+add-apt-repository -y ppa:ubuntu-toolchain-r/test ;apt update ;apt -y install gfortran-7 ; update-alternatives --install /usr/bin/gcc gcc /usr/bin/gcc-7 40 --slave /usr/bin/g++ g++ /usr/bin/g++-7 ;update-alternatives --install /usr/bin/gfortran gfortran /usr/bin/gfortran-7 40 --slave /usr/bin/gcc gcc /usr/bin/gcc-7
