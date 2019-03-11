@@ -1,12 +1,15 @@
 {
-  "title": "Hello World Scenario",
-  "description": "Your First Scenario",
+  "title": "Installing FLEUR",
+  "description": "How to configure and compile FLEUR from its GIT-repository",
   "difficulty": "beginner",
-  "time": "2 minutes",
+  "time": "10 minutes",
   "details": {
     "steps": [{
-      "title": "Step 1 - Run Command",
+      "title": "Step 1 - Prepare your system",
       "text": "step1.md"
+    },{
+      "title": "Step 2 - Download FLEUR",
+      "text": "step2.md"
     }],
     "intro": {
       "text": "intro.md",
